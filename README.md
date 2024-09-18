@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development.
 - 🌱 I’m currently learning React and Redux.
 - 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me - https://www.linkedin.com/in/valeriy-a-a23833310/
+- 📫 How to reach me - https://www.linkedin.com/in/vlrnsnk/
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I produce electronic music as a hobby.
 
